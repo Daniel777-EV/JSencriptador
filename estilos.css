@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.cuadro {
+  
+  padding: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  
+  border-radius: 0.5em;
+  width: 35vw;
+  height: auto;
+  margin-left: 375px;
+  font-style: italic;
+
+}
+
+
+
+.main {
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
